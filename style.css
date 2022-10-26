@@ -1,0 +1,100 @@
+header {
+  height: 90px;
+  background-color: rgb(34, 40, 112);
+  color: whitesmoke;
+  text-align: center;
+  outline: 4px solid black;
+  font-size: 50px;
+  font-family:Arial, Helvetica, sans-serif;
+  /* font-weight: bold; */
+  margin: auto;
+  padding-top: 0.5em;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0em;
+  padding: 1em;
+}
+
+.container-1 {
+  padding-left: 5em;
+  padding-right: 5em;
+  font-size: 45px;
+  width: 550px;
+}
+
+.p-2 {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+/* .container-2 {
+  width: 30%;
+} */
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-center {
+  align-items: center;
+}
+
+.space-left {
+  width: 10%;
+}
+
+.space-center {
+  width: 60%;
+}
+
+.space-right {
+  width: 30%;
+}
+
+.annoying-blue-box {
+  height: 25px;
+  width: max-content;
+  background-color: rgb(155, 203, 245);
+  margin: 3em 5em 5em 5em;
+}
+
+.image-card {
+  background-color: rgb(142, 201, 241);
+  color: whitesmoke;
+  height: 50px;
+  width: 150px;
+  padding: 2em;
+  margin-top: 7em;
+  margin-bottom: 0.5em;
+  font-size: 25px;
+}
+
+.image-text {
+  font-size: 25px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+}
+
+footer {
+  background-color:rgb(34, 40, 112);
+}
+
+.card-2 {
+  height: 150px;
+  outline: 4px solid black;
+}
